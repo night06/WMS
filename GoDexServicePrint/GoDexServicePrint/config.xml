@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BNAConfiguration>
+  <LabelWidth>850</LabelWidth>
+  <LabelHeight>600</LabelHeight>
+  <DataFiles>data</DataFiles>
+  <PrinterName>Godex EZ-1200 Plus</PrinterName>
+  <TemplateName>TemplatePrint.txt</TemplateName>
+</BNAConfiguration>
